@@ -415,7 +415,7 @@ border-radius: 50%;
 
 /*--------Footer Section-------*/
 .footer{
-    background: linear-gradient(#29AB87, black);
+    background: linear-gradient( black,#29AB87);
     height: 50vh;
     width: 100%;
     display: grid;
